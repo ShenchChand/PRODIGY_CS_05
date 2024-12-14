@@ -8,7 +8,7 @@ Install Scapy: Ensure you have the Scapy library installed. Use the command:
 
 This tool requires elevated privileges to capture packets. Run the script with sudo or as an administrator
 
-    sudo python3 Network_Traffic_Analyzer.py
+    sudo python3 Network_Packet_Analyzer.py
     
 Run the Script:
 
